@@ -13,21 +13,21 @@ body{
 }
 
 header{
-                background-color:var(--cor-primaria)
-                
+                background-color:var(--cor-primaria);
+                color:var(--cor-fundo)
                 text-align: center;
                 margin:0 auto;
                 padding:16px;
                 border:5px solid #0b28c9;
 }
 main{
-                color: #e6e20d;
+                color:var(--cor-primaria)
                 margin: 0 auto;
                 padding: 16px;
              }
 article{
                 display: flex;
-                border:1px solid #0400ff83
+                border:1px var(--cor-secundaria)
 
                 
              }
