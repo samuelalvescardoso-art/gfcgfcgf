@@ -7,7 +7,14 @@
     --cor-contraste:#fef8f8d2;
 }
 
-.tema-escuro
+.tema-escuro{
+    --cor-primaria:#15138b;
+    --cor-secundaria: #0103134c;
+    --cor-fundo: #FFFF;
+    --cor-letra: #000;
+    --cor-botao:#b5ababad;
+    --cor-contraste:#fef8f8d2;
+}
 
 body{
     max-width: 100vw;
