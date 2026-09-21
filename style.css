@@ -14,14 +14,14 @@ body{
 
 header{
                 background-color:var(--cor-primaria);
-                color:var(--cor-fundo)
+                color:var(--cor-fundo);
                 text-align: center;
                 margin:0 auto;
                 padding:16px;
                 border:5px solid #0b28c9;
 }
 main{
-                color:var(--cor-primaria)
+                color:var(--cor-primaria);
                 margin: 0 auto;
                 padding: 16px;
              }
