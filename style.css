@@ -14,6 +14,8 @@
     --cor-letra: #fff1f1;
     --cor-botao:#b5ababad;
     --cor-contraste:#fef8f8d2;
+
+    --fonte-texto:
 }
 .tema-escuro a{
    color:var(--cor-secundaria);
@@ -21,8 +23,12 @@
 .tema-escuro p{
     color:var(--cor-letra)
 }
+.tema-escuro header p{
+    color: var(--cor-contraste);
+}
 body{
     max-width: 100vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
